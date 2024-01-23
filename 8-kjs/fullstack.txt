@@ -1,0 +1,42 @@
+🏆 I have vast experience on Web, Android & iOS platforms in every development stage, including Designing, Front-End Development, Back-End Development & After Deployment Technical Support. 🏆
+
+ 😊Skill-Set 👍 
+✔️ Frame-work: 
+React.js, Angular (version 6/7/8/9/10/11/12/13/14), , Next.js, Vue.js 
+✔️ Languages: 
+Javascript, Typescript 
+✔️ Databases: 
+Firebase, Mongo, MySQL, PostgreSQL 
+✔️ API/Backend: 
+Node.js, .Net, REST API 
+✔️ Package Manager: 
+NPM, YARN next
+✔️ Version control/Tools: 
+GitHub, ZenHub, Trello, Sublime Text, Apple Xcode, Git, Auto Layout, Subversion 
+✔️ Web server configuration: AWSs EC2, Elastic beanstalk 
+✔️ Deployment: AWS, cPanel 
+✔️ Task Manager: 
+GitLab, Jira, Trello, Monday 
+✔️ Other to Angular Domain 
+Unit Test (JEST, Spectator), Monorepo (Nx), State management using NGRX
+✔️ Design Skills: 
+Adobe XD, Photoshop, Prototype, Invision, Figma design. 
+✔️ Firebase Skills: 
+Realtime Database, Cloud Firestore, Push Notifications with Cloud Messaging, Crashlytics, Authentication (Facebook, Gmail, Phone, Anonymous, Email/Password), Analytics, Remote Config, Admob, Remote Config, Performance, Storage (Store Image, Video, Audio), etc.
+
+ 👍 Why you should hire me? 
+✔️ Fluent Communication in English (Speaking | Writing). 
+✔️ Punctual remote work experience with on-time availability for stand-up meetings. 
+✔️ Can start working on your project ASAP. 
+✔️ Dedicately deliver 45 hours per week(9 hours per day). 
+✔️ Transparent work updates on voice/video meetings on weekdays. 
+✔️ User-friendly UI/UX, clean coding, code review, quality Q&A tests. 
+✔️ Support and maintenance with quick around time & Troubleshooting. 
+
+I am working remotely doing freelance on Upwork since 2016 & providing satisfying services to Clients is very important to me. So, I take good care of them. I intend to continue providing great service to my clients as I have in the past.
+
+ I work 45 hours per week and 9 hours per day. And would be able to work on Client's time zone. Also, I would be able to start work on project Immediately. 
+
+I have good command over English(US) and can communicate fluently, would be able to discuss task progress and all the needs via quick Voice & Video meeting on weekdays. I am very fluent in English communication (Oral & Written). So, No issues in conversation.
+
+ Thanks for reviewing my profile. Waiting for new opportunity to design & Develop your project... 😊👍

@@ -1,0 +1,79 @@
+Hello. 
+❄You can check my past typical project I have developed. 
+✔ https://chat.dante-ai.com/ 
+✔ https://www.customgpt.ai/
+My name is Mitsuki and I'm an AI developer working as a freelancer and I believe I am the best fit for this job. 
+I have extensive experience in the field of Chatbot development. 
+Additionally, I maintain a strict deadline policy so that we can stay on track toward completing the project at all costs. 
+Please contact me and discuss project for success.
+
+Hello.
+My name is Mitsuki, AI developer working as a freelancer and I believe I am the best fit for this job. 
+I have extensive experience in the field of API and commitment coupled so that we can work together to deliver success. 
+And I maintain a strict deadline policy so that we can stay on track toward completing the project at all costs. 
+Please contact me and discuss project for success.
+
+Midjourney
+https://hdpng.com/fender-png/fender-png-fender-standard-stratocaster-black-pf-600-31851
+https://drive.google.com/drive/folders/1CSjrqj6C2b_WemNhowjCaGVroQqGTzzK?usp=drive_link
+
+🏆 Google Certified TensorFlow Developer
+🏆 AWS Certified Machine Learning - Specialty Engineer
+🏆 AWS Certified Data Analytics - Specialty Engineer
+
+5+ years of comprehensive industry experience in computer vision, Natural Language Processing (NLP), Predictive Modelling and forecasting.
+
+➤ Generative AI Models
+
+❄ OpenAI ( GPT - 3/4, ChatGPT, Embeddings )
+❄ GCP PaLM, Azure OpenAI Service
+❄ Stable Diffusion - LoRA, DreamBooth
+❄ Large Language Models (LLMs) - BLOOM, LLaMA, Llama2, Falcon
+
+➤ Generative AI Frameworks
+
+❄ LangChain
+❄ Chainlit
+❄ Pinecone - Vector database
+❄ Langfuse
+
+➤ ML Frameworks
+
+❄ TensorFlow
+❄ PyTorch
+❄ Huggingface
+❄ Keras
+❄ Scikit-learn
+❄ Spark ML
+❄ NVIDIA DeepStream SDK Development
+
+➤ DevOps
+
+❄CI/CD
+❄Git, Git Action
+❄AWS - CodeCommit, CodeBuild, CodeDeploy, CodePipeline, CodeStar
+
+➤ Cloud Skills
+
+❄ AWS - SageMaker, Comprehend, Translate, Textract, Polly, Forecast, Personalize, Rekognition, Transcribe, IoT Core, IoT Greengrass
+❄ GCP - Vertex AI, AutoML, Text-to-Speech, Speech-to-Text, Natural Language AI, Translation AI, Vision AI, Video AI, Document AI, Dialogflow, Contact Center AI, Timeseries Insights API, Recommendations AI
+❄ Azure - Azure ML
+
+
+➤ Sample work Applications include but are not limited to:
+
+❄ Sales forecasting
+❄ Recommendation engines
+❄ Image classification
+❄ Object segmentation
+❄ Face recognition
+❄ Object detection & object tracking
+❄ Stable Diffusion Generative AI
+❄ Augmented Reality
+❄ Emotion analysis
+❄ Video analytics and surveillance
+❄ Text analysis and chatbot development
+❄ Image caption generation
+❄ Similar Image search engine
+❄ Fine-tuning large language models (LLMs)
+❄ ChatGPT API
